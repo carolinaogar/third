@@ -1,0 +1,4 @@
+baseURL = 'https://incredible-rabanadas-c716d8.netlify.app/'
+languageCode = 'en-us'
+title = 'TTest Site'
+theme = "blogge"
